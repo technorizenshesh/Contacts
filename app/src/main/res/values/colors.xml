@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#1873B9</color>
+    <color name="color_secondary">#00579A</color>
+    <color name="color_primary_semi">#D31873B9</color>
+    <color name="color_secondary_semi">#E200579A</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="texts">#494949</color>
+    <color name="texts_white">#FFFFFF</color>
+    <color name="texts_white_dim">#9CA4EDF9</color>
+    <color name="detail_dim_color">#A4EDF9</color>
+
+</resources>

@@ -1,0 +1,68 @@
+[  
+  {
+    "id": "1","name":"Henry Bultonaaas","type":"client",
+		"Lines": [
+				{
+					"Created date": "01/01/2023",
+					 "PropertyID": "P001",
+					"Property Address": "12 St LA",
+					"Açıklama": "bla balbalbal, bla,bbla,bbla,bbal, bla,bbla,bbla,bbal, bla,bbla,bbla,bbal, bla,bbla,bbla,bbal, bla,bbla,bbla,bbal, bla,bbla,bbla,b",
+					"Bedroom": "4444444444444 vsdfsdffs"
+					
+				}
+			]
+	},
+	{
+    "id": "2","name":"Henry Bultonsss","type":"client",
+		"Lines": [
+				{
+					"Created date": "01/01/2023",
+					 "PropertyID": "P0cccccccccccc  sczacacac  01",
+					"Property Address": "12 St LA",
+					"Açıklama": "bla balbalbal, bla,bbla,bbla,b",
+					"Bedroom": "4444444444444 vsdfsdffs"
+					
+				}
+			]
+	},
+	{
+    "id": "3","name":"JAMES Bultonsss sadfasdfsdf ","type":"potential client",
+		"Lines": [
+				{
+					"Created date": "01/01/2023",
+					 "PropertyID": "P0cccccccccccc  sczacacac  01",
+					"Property Address": "12 St LA",
+					"Açıklama": "bla balbalbal, bla,bbla,bbla,b",
+					"Bedroom": "4444444444444 vsdfsdffs"
+					
+				}
+			]
+	},
+	{
+    "id": "4","name":"JAMES Bultonsss sadfasdfsdf 4 ","type":"potential client",
+		"Lines": [
+				{
+					"Created date": "01/01/2023",
+					 "PropertyID": "P0cccccccccccc  sczacacac  01",
+					"Property Address": "12 St LA",
+					"Açıklama": "bla balbalbal, bla,bbla,bbla,b",
+					"Bedroom": "4444444444444 vsdfsdffs"
+					
+				}
+			]
+	},
+	{
+    "id": "5","name":"JAMES Bultonsss sadfasdfsdf 5 ","type":"potential client",
+		"Lines": [
+				{
+					"Created date": "01/01/2023",
+					 "PropertyID": "P0cccccccccccc  sczacacac  01",
+					"Property Address": "12 St LA",
+					"Açıklama": "bla balbalbal, bla,bbla,bbla,b",
+					"Bedroom": "4444444444444 vsdfsdffs"
+					
+				}
+			]
+	}
+	
+]	

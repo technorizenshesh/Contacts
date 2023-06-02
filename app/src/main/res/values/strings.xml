@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_of_insurance">Type of insurance:</string>
+    <string name="policy_renewal_date">Policy Renewal Date :</string>
+    <string name="insurance_company">insurance Company :</string>
+
+    <string-array name="image_loader">
+        <item>app_logo</item><!--app logo 0 -->
+        <item>flag</item><!--flag  1 -->
+        <item>girl</item><!--flag  2 -->
+        <item>man</item><!--flag  3 -->
+        <item>user</item><!--flag  4 -->
+        <item>other image</item><!--other image-->
+    </string-array>
+</resources>

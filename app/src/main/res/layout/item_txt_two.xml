@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            >
+            <TextView
+                android:id="@+id/date3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:layout_margin="@dimen/_1sdp"
+                android:fontFamily="@font/poppinsregular"
+                android:padding="@dimen/_2sdp"
+                android:maxLines="1"
+                android:text="@string/policy_renewal_date"
+                android:textAlignment="textStart"
+                android:textColor="@color/texts_white"
+                android:textSize="@dimen/_10sdp" />
+
+        </HorizontalScrollView>
+    </LinearLayout>
+</layout>
